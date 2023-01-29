@@ -1,0 +1,5 @@
+Antuaneta Antuanetovna, Zam.Director, 9000,
+Eduard Eduardovich, Rab, 8000,
+Zinaida Zinaidovna, Rab, 8000,
+Luchsii Rabotnik, Rab, 8100,
+Dondon,Antonovich,,Director,,10000,
